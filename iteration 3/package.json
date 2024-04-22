@@ -1,0 +1,16 @@
+{
+  "name": "iteration-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
