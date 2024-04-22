@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Number Guessing Game (Use Case)
 
 This repository contains three iterations of a number-guessing game implemented using HTML and JavaScript. Each iteration demonstrates progressive improvements in code organization, modularity, and testing.
 
